@@ -1,0 +1,72 @@
+[
+  {
+    "id": "5513",
+    "name_en": "Kathekhola",
+    "name": "काठेखोला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5514",
+    "name_en": "Galkot",
+    "name": "गल्कोट",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5515",
+    "name_en": "Jaimini",
+    "name": "जैमिनी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5516",
+    "name_en": "Dhorpatan",
+    "name": "ढोरपाटन",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5517",
+    "name_en": "Tamankhola",
+    "name": "तमानखोला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5518",
+    "name_en": "Tarakhola",
+    "name": "ताराखोला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5519",
+    "name_en": "Nisikhola",
+    "name": "निसीखोला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5520",
+    "name_en": "Baglung",
+    "name": "बागलुङ",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5521",
+    "name_en": "Badigad",
+    "name": "वडिगाड",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5522",
+    "name_en": "Bareng",
+    "name": "वरेङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  }
+]

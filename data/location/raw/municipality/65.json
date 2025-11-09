@@ -1,0 +1,58 @@
+[
+  {
+    "id": "5641",
+    "name_en": "Kohalpur",
+    "name": "कोहलपुर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5642",
+    "name_en": "Khajura",
+    "name": "खजुरा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5643",
+    "name_en": "Janaki",
+    "name": "जानकी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5644",
+    "name_en": "Duduwa",
+    "name": "डुडुवा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5645",
+    "name_en": "Narainapur",
+    "name": "नरैनापुर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5646",
+    "name_en": "Nepalgunj",
+    "name": "नेपालगञ्ज",
+    "type_en": "Sub-Metropolitan City",
+    "type": "उपमहानगरपालिका"
+  },
+  {
+    "id": "5647",
+    "name_en": "Baijanath",
+    "name": "बैजनाथ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5648",
+    "name_en": "Raptisonari",
+    "name": "राप्तीसोनारी ��ाउँपालिका",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  }
+]

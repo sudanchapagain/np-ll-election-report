@@ -1,0 +1,44 @@
+[
+  {
+    "id": "5507",
+    "name_en": "Annapurna",
+    "name": "अन्नपूर्ण",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5508",
+    "name_en": "Dhawalagiri",
+    "name": "धवलागिरी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5509",
+    "name_en": "Beni",
+    "name": "बेनी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5510",
+    "name_en": "Mangala",
+    "name": "मंगला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5511",
+    "name_en": "Malika",
+    "name": "मालिका",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5512",
+    "name_en": "Raghuganga",
+    "name": "रघुगंगा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  }
+]

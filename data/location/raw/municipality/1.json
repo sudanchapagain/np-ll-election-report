@@ -1,0 +1,65 @@
+[
+  {
+    "id": "5001",
+    "name_en": "Aathrai Triveni",
+    "name": "आठराई त्रिवेणी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5007",
+    "name_en": "Pathibhara Yangwarak",
+    "name": "पाथीभरा याङवरक",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5002",
+    "name_en": "Phaktanglung",
+    "name": "फक्ताङलुङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5003",
+    "name_en": "Phungling",
+    "name": "फुङलिङ",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5004",
+    "name_en": "Mikwakhola",
+    "name": "मिक्वाखोला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5005",
+    "name_en": "Meringden",
+    "name": "मेरिङदेन",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5006",
+    "name_en": "Maiwakhola",
+    "name": "मैवाखोला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5008",
+    "name_en": "Sidingwa",
+    "name": "सिदिङ्वा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5009",
+    "name_en": "Sirijangha",
+    "name": "सिरीजङ्घा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  }
+]

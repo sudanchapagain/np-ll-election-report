@@ -1,0 +1,58 @@
+[
+  {
+    "id": "5122",
+    "name_en": "Khijidemba",
+    "name": "खिजीदेम्वा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5123",
+    "name_en": "Champadevi",
+    "name": "चम्पादेवी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5124",
+    "name_en": "Chisankhugadhi",
+    "name": "चिशंखुगढी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5125",
+    "name_en": "Manebhanjyang",
+    "name": "मानेभन्ज्याङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5126",
+    "name_en": "Molung",
+    "name": "मोलुङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5127",
+    "name_en": "Likhu",
+    "name": "लिखु",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5128",
+    "name_en": "Siddhicharan",
+    "name": "सिद्धिचरण",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5129",
+    "name_en": "Sunkoshi",
+    "name": "सुनकोशी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  }
+]

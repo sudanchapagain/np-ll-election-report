@@ -1,0 +1,58 @@
+[
+  {
+    "id": "5461",
+    "name_en": "Kawasoti",
+    "name": "कावासोती",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5462",
+    "name_en": "Gaindakot",
+    "name": "गैंडाकोट",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5464",
+    "name_en": "Devchuli",
+    "name": "देवचुली",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5469",
+    "name_en": "Bulingtar",
+    "name": "बुलिङटार",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5468",
+    "name_en": "Baudikali",
+    "name": "बौदीकाली",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5470",
+    "name_en": "Madhyabindu",
+    "name": "मध्यविन्दु",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5472",
+    "name_en": "Binayi Triveni",
+    "name": "विनयी त्रिवेणी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5475",
+    "name_en": "Hupsekot",
+    "name": "हुप्से���ोट",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  }
+]

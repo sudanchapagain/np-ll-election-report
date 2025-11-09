@@ -1,0 +1,72 @@
+[
+  {
+    "id": "5558",
+    "name_en": "Kapurkot",
+    "name": "कपुरकोट",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5559",
+    "name_en": "Kalimati",
+    "name": "कालिमाटी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5560",
+    "name_en": "Kumakh",
+    "name": "कुमाख",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5561",
+    "name_en": "Chhatreshwari",
+    "name": "छत्रेश्वरी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5563",
+    "name_en": "Triveni",
+    "name": "त्रिवेणी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5564",
+    "name_en": "Darma",
+    "name": "दार्मा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5565",
+    "name_en": "Bangad Kupinde",
+    "name": "बनगाड कुपिण्डे",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5566",
+    "name_en": "Bagchaur",
+    "name": "बागचौर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5567",
+    "name_en": "Sharada",
+    "name": "शारदा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5562",
+    "name_en": "Siddha Kumakh",
+    "name": "सिद्ध कुमाख",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "26",
+    "name": "काठमाडौ‌",
+    "name_en": "Kathmandu"
+  },
+  {
+    "id": "29",
+    "name": "काभ्रेपलाञ्चोक",
+    "name_en": "Kavrepalanchok"
+  },
+  {
+    "id": "35",
+    "name": "चितवन",
+    "name_en": "Chitwan"
+  },
+  {
+    "id": "17",
+    "name": "दोलखा",
+    "name_en": "Dolakha"
+  },
+  {
+    "id": "24",
+    "name": "धादिङ",
+    "name_en": "Dhading"
+  },
+  {
+    "id": "25",
+    "name": "नुवाकोट",
+    "name_en": "Nuwakot"
+  },
+  {
+    "id": "27",
+    "name": "भक्तपुर",
+    "name_en": "Bhaktapur"
+  },
+  {
+    "id": "31",
+    "name": "मकवानपुर",
+    "name_en": "Makwanpur"
+  },
+  {
+    "id": "23",
+    "name": "रसुवा",
+    "name_en": "Rasuwa"
+  },
+  {
+    "id": "18",
+    "name": "रामेछाप",
+    "name_en": "Ramechhap"
+  },
+  {
+    "id": "28",
+    "name": "ललितपुर",
+    "name_en": "Lalitpur"
+  },
+  {
+    "id": "30",
+    "name": "सिन्धुपाल्चोक",
+    "name_en": "Sindhupalchok"
+  },
+  {
+    "id": "19",
+    "name": "सिन्धुली",
+    "name_en": "Sindhuli"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "5043",
+    "name_en": "Khandbari",
+    "name": "खाँदवारी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5044",
+    "name_en": "Chichila",
+    "name": "चिचिला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5045",
+    "name_en": "Chainpur",
+    "name": "चैनपुर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5046",
+    "name_en": "Dharmadevi",
+    "name": "धर्मदेवी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5047",
+    "name_en": "Panchkhapan",
+    "name": "पाँचखपन",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5048",
+    "name_en": "Bhotkhola",
+    "name": "भोटखोला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5049",
+    "name_en": "Makalu",
+    "name": "मकालु",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5050",
+    "name_en": "Madi",
+    "name": "मादी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5051",
+    "name_en": "Sabhapokhari",
+    "name": "सभापोखरी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5052",
+    "name_en": "Silichong",
+    "name": "सिलीचोङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  }
+]

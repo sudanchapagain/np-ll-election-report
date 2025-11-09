@@ -1,0 +1,100 @@
+[
+  {
+    "id": "5881",
+    "name_en": "Kalikamai",
+    "name": "कालिकामाई",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5364",
+    "name_en": "Chhipaharmai",
+    "name": "छिपहरमाई",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5365",
+    "name_en": "Jagarnathpur",
+    "name": "जगरनाथपुर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5882",
+    "name_en": "Jirabhawani",
+    "name": "जिराभवानी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5883",
+    "name_en": "Thori",
+    "name": "ठोरी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5366",
+    "name_en": "Dhobini",
+    "name": "धोबीनी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5367",
+    "name_en": "Pakaha Mainpur",
+    "name": "पकाहा मैनपुर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5884",
+    "name_en": "Paterwa Sugauli",
+    "name": "पटेर्वा सुगौली",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5885",
+    "name_en": "Parsagadhi",
+    "name": "पर्सागढी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5886",
+    "name_en": "Pokhariya",
+    "name": "पोखरिया",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5887",
+    "name_en": "Bahudarmai",
+    "name": "बहुदरमाई",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5372",
+    "name_en": "Bindabasini",
+    "name": "बिन्दबासिनी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5888",
+    "name_en": "Birgunj",
+    "name": "वीरगंज",
+    "type_en": "Metropolitan City",
+    "type": "महानगरपालिका"
+  },
+  {
+    "id": "5375",
+    "name_en": "Sakhuwa Prasauni",
+    "name": "सखुवा प्रसौनी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  }
+]

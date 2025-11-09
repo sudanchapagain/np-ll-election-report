@@ -1,0 +1,44 @@
+[
+  {
+    "id": "5292",
+    "name_en": "Konjyosom",
+    "name": "कोन्ज्योसोम",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5293",
+    "name_en": "Godawari",
+    "name": "गोदावरी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5294",
+    "name_en": "Bagmati",
+    "name": "बाग्मती",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5295",
+    "name_en": "Mahankal",
+    "name": "महाङ्काल",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5296",
+    "name_en": "Mahalakshmi",
+    "name": "महालक्ष्मी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5297",
+    "name_en": "Lalitpur",
+    "name": "ललितपुर",
+    "type_en": "Metropolitan City",
+    "type": "महानगरपालिका"
+  }
+]

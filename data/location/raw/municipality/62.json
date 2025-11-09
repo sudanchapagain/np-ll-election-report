@@ -1,0 +1,51 @@
+[
+  {
+    "id": "5614",
+    "name_en": "Kuse",
+    "name": "कुसे",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5615",
+    "name_en": "Chhedagad",
+    "name": "छेडागाड",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5616",
+    "name_en": "Junichande",
+    "name": "जुनीचाँदे",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5617",
+    "name_en": "Nalgad",
+    "name": "नलगाड",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5618",
+    "name_en": "Barekot",
+    "name": "बारेकोट",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5619",
+    "name_en": "Bheri",
+    "name": "भेरी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5620",
+    "name_en": "Shiwalaya",
+    "name": "शिवालय",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  }
+]

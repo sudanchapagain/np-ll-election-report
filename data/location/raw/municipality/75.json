@@ -1,0 +1,65 @@
+[
+  {
+    "id": "5736",
+    "name_en": "Krishnapur",
+    "name": "कृष्णपुर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5741",
+    "name_en": "Dodhara Chandani",
+    "name": "दोधारा चाँदनी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5737",
+    "name_en": "Punarbas",
+    "name": "पुनर्वास",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5743",
+    "name_en": "Bedkot",
+    "name": "बेदकोट",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5738",
+    "name_en": "Beldandi",
+    "name": "बेलडाँडी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5739",
+    "name_en": "Belauri",
+    "name": "बेलौरी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5740",
+    "name_en": "Bhimdatta",
+    "name": "भीमदत्त",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5742",
+    "name_en": "Laljhadi",
+    "name": "लालझाडी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5744",
+    "name_en": "Shuklaphanta",
+    "name": "शुक्लाफाँटा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "5492",
+    "name_en": "Kapilvastu",
+    "name": "कपिलवस्तु",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5493",
+    "name_en": "Krishnanagar",
+    "name": "कृष्णनगर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5494",
+    "name_en": "Banganga",
+    "name": "बाणगंगा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5495",
+    "name_en": "Buddhabhumi",
+    "name": "बुद्धभुमी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5496",
+    "name_en": "Maharajganj",
+    "name": "महाराजगंज",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5497",
+    "name_en": "Mayadevi",
+    "name": "मायादेवी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5498",
+    "name_en": "Yashodhara",
+    "name": "यसोधरा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5499",
+    "name_en": "Bijayanagar",
+    "name": "विजयनगर गाउँपाल��का",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5500",
+    "name_en": "Shivaraj",
+    "name": "शिवराज",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5501",
+    "name_en": "Suddhodhan",
+    "name": "शुद्धोधन",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  }
+]

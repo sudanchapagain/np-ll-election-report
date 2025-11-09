@@ -1,0 +1,58 @@
+[
+  {
+    "id": "5181",
+    "name_en": "Umakunda",
+    "name": "उमाकुण्ड",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5182",
+    "name_en": "Khadadevi",
+    "name": "खाँडादेवी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5183",
+    "name_en": "Gokulganga",
+    "name": "गोकुलगङ्गा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5184",
+    "name_en": "Doramba Shailung",
+    "name": "दोरम्बा शैलुङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5185",
+    "name_en": "Manthali",
+    "name": "मन्थली",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5186",
+    "name_en": "Ramechhap",
+    "name": "रामेछाप",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5187",
+    "name_en": "Likhu Tamakoshi",
+    "name": "लिखु तामाकोशी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5188",
+    "name_en": "Sunapati",
+    "name": "सुनापति",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  }
+]

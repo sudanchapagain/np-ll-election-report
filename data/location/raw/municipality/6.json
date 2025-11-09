@@ -1,0 +1,44 @@
+[
+  {
+    "id": "5053",
+    "name_en": "Aathrai",
+    "name": "आठराई",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5054",
+    "name_en": "Chhathar",
+    "name": "छथर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5055",
+    "name_en": "Fedap",
+    "name": "फेदाप",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5056",
+    "name_en": "Menchhayayem",
+    "name": "मेन्छयायेम",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5057",
+    "name_en": "Myanglung",
+    "name": "म्याङलुङ",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5058",
+    "name_en": "Laligurans",
+    "name": "लालीगुराँस",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  }
+]

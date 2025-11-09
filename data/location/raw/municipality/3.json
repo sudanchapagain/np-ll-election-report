@@ -1,0 +1,72 @@
+[
+  {
+    "id": "5018",
+    "name_en": "Ilam",
+    "name": "इलाम",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5019",
+    "name_en": "Chulachuli",
+    "name": "चुलाचुली",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5020",
+    "name_en": "Deumai",
+    "name": "देउमाई",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5021",
+    "name_en": "Phakphokthum",
+    "name": "फाकफोकथुम",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5022",
+    "name_en": "Mai",
+    "name": "माई",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5023",
+    "name_en": "Maijogmai",
+    "name": "माईजोगमाई",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5024",
+    "name_en": "Mangsebung",
+    "name": "माङसेबुङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5025",
+    "name_en": "Rong",
+    "name": "रोङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5026",
+    "name_en": "Sandakpur",
+    "name": "सन्दक���ुर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5027",
+    "name_en": "Suryodaya",
+    "name": "सूर्योदय",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  }
+]

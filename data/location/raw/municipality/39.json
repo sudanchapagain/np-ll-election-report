@@ -1,0 +1,37 @@
+[
+  {
+    "id": "5407",
+    "name_en": "Annapurna",
+    "name": "अन्नपूर्ण",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5408",
+    "name_en": "Pokhara",
+    "name": "पोखरा",
+    "type_en": "Metropolitan City",
+    "type": "महानगरपालिका"
+  },
+  {
+    "id": "5409",
+    "name_en": "Machhapuchchhre",
+    "name": "माछापुछ्रे",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5410",
+    "name_en": "Madi",
+    "name": "मादी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5411",
+    "name_en": "Rupa",
+    "name": "रूपा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  }
+]

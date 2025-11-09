@@ -1,0 +1,44 @@
+[
+  {
+    "id": "5455",
+    "name_en": "Chhatradev",
+    "name": "छत्रदेव",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5456",
+    "name_en": "Panini",
+    "name": "पाणिनी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5457",
+    "name_en": "Bhumikasthan",
+    "name": "भूमिकास्थान",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5458",
+    "name_en": "Malarani",
+    "name": "मालारानी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5460",
+    "name_en": "Sitganga",
+    "name": "शितगंगा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5459",
+    "name_en": "Sandhikharka",
+    "name": "सन्धिखर्क",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  }
+]

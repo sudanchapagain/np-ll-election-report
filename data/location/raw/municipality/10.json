@@ -1,0 +1,86 @@
+[
+  {
+    "id": "5092",
+    "name_en": "Itahari",
+    "name": "इटहरी",
+    "type_en": "Sub-Metropolitan City",
+    "type": "उपमहानगरपालिका"
+  },
+  {
+    "id": "5093",
+    "name_en": "Inaruwa",
+    "name": "इनरुवा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5094",
+    "name_en": "Koshi",
+    "name": "कोशी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5095",
+    "name_en": "Gadhi",
+    "name": "गढी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5096",
+    "name_en": "Duhabi",
+    "name": "दुहवी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5097",
+    "name_en": "Dewanganj",
+    "name": "देवानगञ्ज",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5098",
+    "name_en": "Dharan",
+    "name": "धरान",
+    "type_en": "Sub-Metropolitan City",
+    "type": "उपमहानगरपालिका"
+  },
+  {
+    "id": "5099",
+    "name_en": "Barahchhetra",
+    "name": "बराहक्षेत्र",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5100",
+    "name_en": "Barju",
+    "name": "बर्जु",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5101",
+    "name_en": "Bhokraha Narsingh",
+    "name": "भोक्राहा नरसिंह",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5102",
+    "name_en": "Ramdhuni",
+    "name": "रामधुनी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5103",
+    "name_en": "Harinagar",
+    "name": "हरिनगर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  }
+]

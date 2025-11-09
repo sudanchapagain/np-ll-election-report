@@ -1,0 +1,51 @@
+[
+  {
+    "id": "5523",
+    "name_en": "Kushma",
+    "name": "कुश्मा",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5524",
+    "name_en": "Jaljala",
+    "name": "जलजला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5525",
+    "name_en": "Paiyun",
+    "name": "पैयूं",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5526",
+    "name_en": "Phalebas",
+    "name": "फलेवास",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5527",
+    "name_en": "Mahashila",
+    "name": "महाशिला",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5528",
+    "name_en": "Modi",
+    "name": "मोदी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5529",
+    "name_en": "Bihadi",
+    "name": "विहादी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  }
+]

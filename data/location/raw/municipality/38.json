@@ -1,0 +1,58 @@
+[
+  {
+    "id": "5399",
+    "name_en": "Kwholasothar",
+    "name": "क्व्होलासोथार",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5400",
+    "name_en": "Dudhpokhari",
+    "name": "दूधपोखरी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5401",
+    "name_en": "Dordi",
+    "name": "दोर्दी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5402",
+    "name_en": "Besisahar",
+    "name": "बेसीशहर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5403",
+    "name_en": "Madhya Nepal",
+    "name": "मध्यनेपाल",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5404",
+    "name_en": "Marsyangdi",
+    "name": "मर्स्याङदी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5405",
+    "name_en": "Rainas",
+    "name": "राइनास",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5406",
+    "name_en": "Sundarbazar",
+    "name": "सुन्दरबजार",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  }
+]

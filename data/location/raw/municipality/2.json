@@ -1,0 +1,58 @@
+[
+  {
+    "id": "5010",
+    "name_en": "Kummayak",
+    "name": "कुम्मायक",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5011",
+    "name_en": "Tumbewa",
+    "name": "तुम्वेवा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5012",
+    "name_en": "Phalelung",
+    "name": "फालेलुङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5013",
+    "name_en": "Phalgunanda",
+    "name": "फाल्गुनन्द",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5014",
+    "name_en": "Phidim",
+    "name": "फिदिम",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5015",
+    "name_en": "Miklajung",
+    "name": "मिक्लाजुङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5016",
+    "name_en": "Yangwarak",
+    "name": "याङवरक",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5017",
+    "name_en": "Hilihang",
+    "name": "हिलिहाङ गा��ँपालिका",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  }
+]

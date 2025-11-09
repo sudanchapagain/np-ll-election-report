@@ -1,0 +1,72 @@
+[
+  {
+    "id": "5666",
+    "name_en": "Kamalbazar",
+    "name": "कमलबजार",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5667",
+    "name_en": "Chaurpati",
+    "name": "चौरपाटी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5668",
+    "name_en": "Dhakari",
+    "name": "ढकारी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5669",
+    "name_en": "Turmakhand",
+    "name": "तुर्माखाँद",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5670",
+    "name_en": "Panchadewal Binayak",
+    "name": "पञ्चदेवल विनायक",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5671",
+    "name_en": "Bannigadhi Jayagad",
+    "name": "बान्नीगढी जयगढ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5672",
+    "name_en": "Mangalsen",
+    "name": "मंगलसेन",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5673",
+    "name_en": "Mellekh",
+    "name": "मेल्लेख",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5674",
+    "name_en": "Ramaroshan",
+    "name": "रामारोशन",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5675",
+    "name_en": "Sanphebagar",
+    "name": "साँफेवगर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  }
+]

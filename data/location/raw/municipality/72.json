@@ -1,0 +1,65 @@
+[
+  {
+    "id": "5710",
+    "name_en": "Apihimal",
+    "name": "अपिहिमाल",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5711",
+    "name_en": "Duhu",
+    "name": "दुहुँ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5712",
+    "name_en": "Naugad",
+    "name": "नौगाड",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5714",
+    "name_en": "Mahakali",
+    "name": "महाकाली",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5715",
+    "name_en": "Marma",
+    "name": "मार्मा",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5716",
+    "name_en": "Malikarjun",
+    "name": "मालिकार्जुन",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5717",
+    "name_en": "Lekam",
+    "name": "लेकम",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5713",
+    "name_en": "Byas",
+    "name": "व्याँस",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5718",
+    "name_en": "Shailyashikhar",
+    "name": "शैल्यशिखर",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  }
+]

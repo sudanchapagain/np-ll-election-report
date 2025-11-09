@@ -1,0 +1,72 @@
+[
+  {
+    "id": "5412",
+    "name_en": "Anbukhaireni",
+    "name": "आँबुखैरेनी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5413",
+    "name_en": "Rhising",
+    "name": "ऋषिङ्ग",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5414",
+    "name_en": "Ghiring",
+    "name": "घिरिङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5415",
+    "name_en": "Devghat",
+    "name": "देवघाट",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5416",
+    "name_en": "Bandipur",
+    "name": "बन्दिपुर",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5417",
+    "name_en": "Bhanu",
+    "name": "भानु",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5418",
+    "name_en": "Bhimad",
+    "name": "भिमाद",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5419",
+    "name_en": "Myagde",
+    "name": "म्याग्दे",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5420",
+    "name_en": "Byas",
+    "name": "व्यास",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  },
+  {
+    "id": "5421",
+    "name_en": "Shuklagandaki",
+    "name": "शुक्लागण्डकी",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  }
+]

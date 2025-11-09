@@ -1,0 +1,58 @@
+[
+  {
+    "id": "5104",
+    "name_en": "Khumbu Pasang Lhamu",
+    "name": "खुम्बु पासाङल्हामु",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5106",
+    "name_en": "Thulung Dudhkoshi",
+    "name": "थुलुङ दुधकोशी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5107",
+    "name_en": "Nechasalyan",
+    "name": "नेचासल्यान",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5108",
+    "name_en": "Mahakulung",
+    "name": "महाकुलुङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5105",
+    "name_en": "Mapya Dudhkoshi",
+    "name": "माप्य दुधकोशी",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5109",
+    "name_en": "Likhu Pike",
+    "name": "लिखु पिके",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5110",
+    "name_en": "Sotang",
+    "name": "सोताङ",
+    "type_en": "Rural Municipality",
+    "type": "गाउँपालिका"
+  },
+  {
+    "id": "5111",
+    "name_en": "Solududhkunda",
+    "name": "सोलुदुधकुण्ड",
+    "type_en": "Municipality",
+    "type": "नगरपालिका"
+  }
+]
