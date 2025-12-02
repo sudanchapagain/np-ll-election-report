@@ -1,6 +1,6 @@
 #set text(
-    font: "New Computer Modern",
-    size: 12pt
+  font: "New Computer Modern",
+  size: 12pt,
 )
 
 == technical report
@@ -9,9 +9,7 @@
 
 the data used in this report is sourced from the following:
 
-- *Population by caste/ethnicity groups and Broad age groups, NPHC 2021*: #link(
-    "https://censusnepal.cbs.gov.np/results/downloads/caste-ethnicity?type=data"
-  )
+- *Population by caste/ethnicity groups and Broad age groups, NPHC 2021*: #link("https://censusnepal.cbs.gov.np/results/downloads/caste-ethnicity?type=data")
 - *Location data*: #link("https://github.com/NGR-NP/api-nepal-locations")
 - *Location election data*: #link("https://github.com/rvibek/LocationElection2022")
 
